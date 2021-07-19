@@ -4,7 +4,15 @@ El sistema colecciona los ultimos seguidores y los deja en una cola de espera a 
 
 Deben tener cuidado quienes utilicen esta herramienta de tener actualizada la lista de admisión para evitar dejar caer a un usuario junto con las cuentas falsas.
 
-# Tareas pendientes
+###Instalación
+Utiliza librerias nativas y "requests" para peticiones GET y POST, e importa un archivo donde se definen los datos de acceso a la api de Twitch.
+
+Instalación del requisito:
+```
+pip install requests
+```
+
+### Tareas pendientes
 - [x] Utilizar la api de twitch para obtener listado de followers.
 - [ ] Configurar mysqli para solo revisar a los nuevos seguidores.
 - [ ] Generar interfaz de admisión en masa.
