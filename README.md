@@ -24,4 +24,4 @@ pip install requests
 - [ ] ¿Render interface in OBS panel?.
 
 ### Contact / Tips
-If you want to contribute in any way to the project, get in touch through [the discord server!](https://discord.gg/SpHAebfsKW) Thanks.
+If you want to contribute in any way to the project, get in touch through [the discord server!](https://discord.gg/6827xmkuQh) Thanks.
