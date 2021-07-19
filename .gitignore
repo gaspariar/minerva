@@ -1,1 +1,3 @@
 sshKeys/
+__pycache__/
+vars.py
