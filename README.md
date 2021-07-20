@@ -24,7 +24,7 @@ pip install requests
 - [ ] ¿Render interface in OBS panel?.
 
 ### ETA?
-Unfortunately there is no ETA, although it is a priority for me to finish it, I have to meet other obligations and therefore I cannot establish an ETA as an independent developer.
+Unfortunately there is no ETA, although it is a priority for me to finish it, I have to attend other obligations and therefore I cannot establish an ETA as an independent developer.
 
 ### Contact / Tips
 If you want to contribute in any way to the project, get in touch through [the discord server!](https://discord.gg/6827xmkuQh) Thanks.
